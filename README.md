@@ -7,7 +7,7 @@
 <br>
 ## Explain
 This project uses parser <code>"@typescript-eslint/parser"</code><br/>
-And plugin <code>"@typescript-eslint"</code>.<br> Inherits <code>"typescript", "manpacker"</code>
+And plugin <code>["@typescript-eslint"](https://www.npmjs.com/package/@typescript-eslint/eslint-plugin)</code>.<br> Inherits <code>"typescript", "manpacker"</code>
 
 
 ## Install
