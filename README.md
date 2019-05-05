@@ -7,11 +7,11 @@
 <br>
 ## Explain
 This project uses parser <code>"@typescript-eslint/parser"</code><br/>
-Rely on <code>"eslint", "typescript"</code>
 And plugin <code>"@typescript-eslint"</code>.<br> Inherits <code>"typescript", "manpacker"</code>
 
 
 ## Install
+Rely on <code>"eslint", "typescript"</code>
 ```
 npm install eslint typescript eslint-config-manpacker-typescript  -D
 ```
