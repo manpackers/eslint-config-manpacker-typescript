@@ -1,0 +1,47 @@
+{
+  "name": "eslint-config-manpacker-typescript",
+  "version": "1.0.0",
+  "description": "Manpacker Typescript eslint style config standard code style",
+  "directories": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manpackers/eslint-config-manpacker-typescript.git"
+  },
+  "bugs": {
+    "url": "https://github.com/manpackers/eslint-config-manpacker-typescript/issues"
+  },
+  "homepage": "https://github.com/manpackers/eslint-config-manpacker-typescript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "standard",
+    "eslint",
+    "manpacker",
+    "eslintconfig",
+    "standard style",
+    "code style",
+    "check",
+    "typescript"
+  ],
+  "author": {
+    "name": "winterfete"
+  },
+  "peerDependencies": {
+    "eslint": ">=5.0.0"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^5.16.0",
+    "typescript": "^3.4.5"
+  },
+  "dependencies": {
+    "@typescript-eslint/eslint-plugin": "^1.7.0",
+    "@typescript-eslint/parser": "^1.7.0",
+    "eslint-config-manpacker": "^1.3.0",
+    "eslint-config-typescript": "^2.0.0"
+  }
+}
