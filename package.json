@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-manpacker-typescript",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Manpacker Typescript eslint style config standard code style",
   "directories": {
     "test": "test"
