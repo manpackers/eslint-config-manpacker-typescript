@@ -6,6 +6,7 @@ module.exports = {
   extends: ['typescript', 'manpacker'],
 
   rules: {
-    '@typescript-eslint/indent': 'off'
+    '@typescript-eslint/indent': 'off',
+    '@typescript-eslint/no-var-requires': 'off'
   }
 }
