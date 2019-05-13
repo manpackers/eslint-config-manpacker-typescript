@@ -4,5 +4,6 @@
 .DS_Store
 .vscode
 .eslintrc.js
+node_modules
 package-lock.json
 test/
