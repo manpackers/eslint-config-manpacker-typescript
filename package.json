@@ -12,10 +12,10 @@
   "bugs": {
     "url": "https://github.com/manpackers/eslint-config-manpacker-typescript/issues"
   },
-  "homepage": "https://github.com/manpackers/eslint-config-manpacker-typescript",
+  "homepage": "https://github.com/manpackers/eslint-config-manpacker-typescript#readme",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "lint": "eslint ./test --config=index.js"
   },
   "keywords": [
     "standard",
